@@ -3,4 +3,5 @@ D:
 cd emad\quiz_app\server
 pnpm run all
 
+
 cmd /k
